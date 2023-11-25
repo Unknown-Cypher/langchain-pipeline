@@ -1,0 +1,10 @@
+llama-index
+pypdf
+docx2txt
+torch 
+transformers 
+python-pptx 
+Pillow
+pandas
+openai
+python-dotenv
