@@ -13,7 +13,7 @@ To install the dependencies:
 
 ## Environment Configuration
 
-In order to run the `cloudwave-pipeline` project, you need to set up a `.env` file with the following content:
+In order to run the `langchain-pipeline` project, you need to set up a `.env` file with the following content:
 
 ```dotenv
 INPUT_PATH="Path/to/input/folder"
